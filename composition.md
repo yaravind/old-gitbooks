@@ -1,6 +1,6 @@
 # Coding by Composition
 
-Composition will be our tool for constructing programs and, as luck would have it, is backed by a powerful theory that ensures things will work out for us. Let's examine this theory.
+Composition will be our tool for constructing programs and, as luck would have it, is backed by a powerful theory that ensures things will work out for us. Let's examine this **Category theory**.
 
 ## Associative Property
 
