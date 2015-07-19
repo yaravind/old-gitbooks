@@ -4,5 +4,5 @@
 * [Functions](ch1-functions.md)
 * [Currying](currying.md)
 * [Composition](composition.md)
-* Category Theory
+* [Category Theory](category_theory.md)
 
