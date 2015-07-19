@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Functions](ch1-functions.md)
-* Currying
+* [Currying](currying.md)
 
