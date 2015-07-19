@@ -13,6 +13,14 @@ compose(toUpperCase, compose(head, reverse));
 compose(compose(toUpperCase, head), reverse);
 ```
 
+## Map's Composition Law
+
+[Reference (Principled Refactor)](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html)
+
+```
+var law = compose(map(f), map(g)) == map(compose(f, g));
+```
+
 ## Pointfree coding
 
 * http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch5.html
