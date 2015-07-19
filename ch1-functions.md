@@ -26,6 +26,7 @@
 ### Parallel Code
 
 * Here's the coup de grace, we can run any pure function in parallel since it does not need access to shared memory and it cannot, by definition, have a race condition due to some side effect.
+* Because we are not encoding order of evaluation (unlike in imperative coding), declarative coding lends itself to parallel computing. This coupled with pure functions is why FP is a good option for the parallel future - we don't really need to do anything special to achieve parallel/concurrent systems.
 
 ## Challenges
 
