@@ -15,7 +15,8 @@ compose(compose(toUpperCase, head), reverse);
 
 ## Pointfree coding
 
-http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch5.html
+* http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch5.html
+* Monoids and Combinators enable us to write pointfree code [Reference](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html)
 
 ## Debugging
 
