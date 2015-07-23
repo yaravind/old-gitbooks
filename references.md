@@ -11,4 +11,4 @@
 ## Website
 
 * http://fsharpforfunandprofit.com/
-* 
+* http://drboolean.gitbooks.io/mostly-adequate-guide/
