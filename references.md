@@ -13,3 +13,7 @@
 
 * http://fsharpforfunandprofit.com/
 * http://drboolean.gitbooks.io/mostly-adequate-guide/
+
+## Abstract Data Types
+
+https://speakerdeck.com/mpilquist/a-tour-of-functional-structures-via-scodec-and-simulacrum
