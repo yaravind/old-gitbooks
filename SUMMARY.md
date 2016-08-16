@@ -6,4 +6,5 @@
 * [Composition](composition.md)
 * [Category Theory](category_theory.md)
 * [References](references.md)
+* Lessons Learned
 
