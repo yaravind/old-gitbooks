@@ -15,7 +15,7 @@ Will give the following warning
 [WARNING]     null
 [WARNING]     ^
 ```
-Making the return type as Unit means that, any value returned from the function is automatically discarded and a Unit is returned (Similar to void in Java)
+Value discarding: Making the return type as Unit means that, any value returned from the function is automatically discarded and a Unit is returned (Similar to void in Java)
 
 ```scala
 def fetch[T](jobId: String, contentType: ContentType)(implicit context: SparkContext, config: JobConfig): Unit = {
@@ -24,7 +24,8 @@ def fetch[T](jobId: String, contentType: ContentType)(implicit context: SparkCon
 ```
 
 Reference
-- [http://stackoverflow.com/questions/18368346/quite-confused-about-this-code-snippet-return-types-with-without](http://stackoverflow.com/questions/18368346/quite-confused-about-this-code-snippet-return-types-with-without)
+- [Value discarding section](https://dzone.com/articles/useful-scala-compiler-options-for-better-scala-dev)
+- - [http://stackoverflow.com/questions/18368346/quite-confused-about-this-code-snippet-return-types-with-without](http://stackoverflow.com/questions/18368346/quite-confused-about-this-code-snippet-return-types-with-without)
 - [http://stackoverflow.com/questions/23206201/scala-expression-evaluation](http://stackoverflow.com/questions/23206201/scala-expression-evaluation)
 
 ---
