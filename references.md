@@ -17,3 +17,7 @@
 ## Abstract Data Types
 
 https://speakerdeck.com/mpilquist/a-tour-of-functional-structures-via-scodec-and-simulacrum
+
+## Coding Conventions
+
+- [https://blog.jetbrains.com/scala/2011/03/10/signature-matters/](https://blog.jetbrains.com/scala/2011/03/10/signature-matters/)
