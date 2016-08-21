@@ -39,3 +39,4 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 ## "Sum of Product" Types
 - Combination of sum and product types
+- Mostly have nested definitions
