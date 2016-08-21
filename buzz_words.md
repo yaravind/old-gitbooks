@@ -12,8 +12,8 @@ FP world has lot of terminology that programmers coming from an OOP background s
 | Applicative | tbd |
 | Monad | tbd |
 | Monoid | tbd |
-| 0:10 | tbd |
-| 0:11 | tbd |
+| Semigroup | tbd |
+| Arrow | tbd |
 | 0:12 | tbd |
 | 0:13 | tbd |
 | 0:14 | tbd |
