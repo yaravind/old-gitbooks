@@ -7,6 +7,6 @@
 * [Algebraic Data Types](algebraic_data_types.md)
 * [Category Theory](category_theory.md)
 * [Lessons Learned](lessons_learned.md)
-* [References](references.md)
 * [Buzz Words](buzz_words.md)
+* [References](references.md)
 
