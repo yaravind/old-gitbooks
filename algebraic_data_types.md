@@ -54,6 +54,7 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 # References
 
+- http://tpolecat.github.io/presentations/algebraic_types.html
 - https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/
 - https://gleichmann.wordpress.com/2011/02/05/functional-scala-algebraic-datatypes-sum-and-product-types/
 - https://gleichmann.wordpress.com/2011/02/08/functional-scala-algebraic-datatypes-sum-of-products-types/
