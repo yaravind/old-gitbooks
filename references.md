@@ -11,6 +11,7 @@
 
 ## Website
 
+* http://tpolecat.github.io/
 * http://fsharpforfunandprofit.com/
 * http://drboolean.gitbooks.io/mostly-adequate-guide/
 
