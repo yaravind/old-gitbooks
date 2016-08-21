@@ -54,10 +54,11 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 ## Standard Library
 
-| Intuition | Library |
-| -- | -- |
-| Computations that may fail to return a value | `Option`: `None`, `Some` |
-| 0:3 | 1:3 |
+| Intuition | Type | Value Constructors |
+| -- | -- | -- |
+| Computations that may fail to return a value | `Option` | `None`, `Some` |
+| Computations that may return this or that | `Either` | `Left`, `Right` |
+| Computations that may fail with an Exception | `Try` | `Success`, `Failure` |
 
 
 ## References
