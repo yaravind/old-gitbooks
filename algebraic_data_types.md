@@ -9,7 +9,10 @@
 - Example
 
 ```scala
+//Intoruduce the type
 sealed abstract class Season
+
+//Define value constructors
 case object Summer extends Season
 case object Winter extends Season
 case object Fall extends Season
