@@ -1,6 +1,6 @@
 # Algebraic Data Types
 - ADT's are only data. No behavior at all.
-- 
+- ADT's doesn't feature subtype polymorphism, but only *combination/composition* of data types.
 
 ## Enumerated Types
 
