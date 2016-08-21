@@ -30,6 +30,7 @@ case object Spring extends Season
 - **This or That**
 - All the values of a sum type are clearly expressed as a sum of all of its value constructors.
 - Sum types provide individual value constructors for each and every value of that type.
+- In Scala, Sum Types are encoded by subclassing
 -  Examples: Season, Boolean
 
 ## Product Types
