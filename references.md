@@ -17,7 +17,8 @@
 
 ## Abstract Data Types
 
-https://speakerdeck.com/mpilquist/a-tour-of-functional-structures-via-scodec-and-simulacrum
+* 
+* https://speakerdeck.com/mpilquist/a-tour-of-functional-structures-via-scodec-and-simulacrum
 
 ## Coding Conventions
 
