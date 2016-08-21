@@ -3,9 +3,7 @@ FP world has lot of terminology that programmers coming from an OOP background s
 
 | Buzz | Details |
 | -- | -- |
-| Sum and Product Types | - https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/ <br/>
-- https://gleichmann.wordpress.com/2011/02/05/functional-scala-algebraic-datatypes-sum-and-product-types/ <br/>
-- https://gleichmann.wordpress.com/2011/02/08/functional-scala-algebraic-datatypes-sum-of-products-types/ |
+| Sum and Product Types | - [Enumerated types](https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/) <br/> - [Sum and Product Types](https://gleichmann.wordpress.com/2011/02/05/functional-scala-algebraic-datatypes-sum-and-product-types/) <br/> - [Sum of Products](https://gleichmann.wordpress.com/2011/02/08/functional-scala-algebraic-datatypes-sum-of-products-types/) |
 | 0:3 | 1:3 |
 | 0:4 | 1:4 |
 | 0:5 | 1:5 |
