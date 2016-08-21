@@ -7,4 +7,5 @@
 * [Category Theory](category_theory.md)
 * [References](references.md)
 * [Lessons Learned](lessons_learned.md)
+* Algebraic Data Types
 
