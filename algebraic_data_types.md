@@ -18,6 +18,7 @@ case object Winter extends Season
 case object Fall extends Season
 case object Spring extends Season
 ```
+- Pattern matching simplifies the way we work with enumerated types
 
 ## Sum Types
 
