@@ -26,12 +26,14 @@ case object Spring extends Season
 
 ## Sum Types
 
+- **This or That**
 - All the values of a sum type are clearly expressed as a sum of all of its value constructors.
 - Sum types provide individual value constructors for each and every value of that type.
 -  Examples: Season, Boolean
 
 ## Product Types
 
+- **This and That**
 - Sometime we can't enumerate all values of a particular type. For e.g. it is not worth to enumerate all possible colors.
 - Example
 
