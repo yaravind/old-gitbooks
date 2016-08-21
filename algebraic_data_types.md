@@ -50,7 +50,7 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 ## Recursive Types
 
-- TBD: http://tpolecat.github.io/presentations/cofree/slides#1
+- TBD: http://tpolecat.github.io/presentations/cofree/slides
 
 ## Standard Library
 
