@@ -7,9 +7,9 @@ FP world has lot of terminology that programmers coming from an OOP background s
 | Higher-order functions | tbd |
 | Sum and Product Types | - [Enumerated types](https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/) <br/> - [Sum and Product Types](https://gleichmann.wordpress.com/2011/02/05/functional-scala-algebraic-datatypes-sum-and-product-types/) <br/> - [Sum of Products](https://gleichmann.wordpress.com/2011/02/08/functional-scala-algebraic-datatypes-sum-of-products-types/) |
 | ADT | [Abstract Data Types](http://tpolecat.github.io/presentations/algebraic_types.html) |
-| Functor | 1:4 |
-| Monoid | 1:5 |
-| 0:7 | 1:7 |
+| Functor | tbd |
+| Monad | tbd |
+| Monoid | tbd |
 | 0:8 | 1:8 |
 | 0:9 | 1:9 |
 | 0:10 | 1:10 |
