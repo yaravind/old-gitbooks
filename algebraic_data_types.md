@@ -8,7 +8,7 @@
 - `case` *classes* and *objects* are used to define enumerated type
 - When defining an ADT, we need to
   - First define the type
-  - and all possible values of that type. These valuses are called value constructors
+  - Second define the domain of the type i.e. all possible values of that type. These valuses are called *value constructors*.
 - Example
 
 ```scala
