@@ -5,7 +5,7 @@
 ## Enumerated Types
 
 - All the possible values are enumerated as there are finite set of values. E.g. Seasons, Switches
-- Case classes and objects are used to define these
+- Case classes and objects are used to define enumerated type
 - Example
 
 ```scala
