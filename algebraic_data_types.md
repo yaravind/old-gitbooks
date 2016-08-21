@@ -30,4 +30,9 @@ case object Spring extends Season
 -  Examples: Season, Boolean
 
 ## Product Types
+- Example
+
+```scala
+sealed case class RGBColor(red:Int, blue:Int, green:Int)
+```
 
