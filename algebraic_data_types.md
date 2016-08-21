@@ -25,11 +25,13 @@ case object Spring extends Season
 - It is not always possible to enumerate all possible values of a type, for e.g. `Color`. This is where the sum and product types are helpful.
 
 ## Sum Types
+
 - All the values of a sum type are clearly expressed as a sum of all of its value constructors.
 - Sum types provide individual value constructors for each and every value of that type.
 -  Examples: Season, Boolean
 
 ## Product Types
+
 - Sometime we can't enumerate all values of a particular type. For e.g. it is not worth to enumerate all possible colors.
 - Example
 
@@ -38,5 +40,6 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 ```
 
 ## "Sum of Product" Types
+
 - Combination of sum and product types
 - Mostly have nested definitions
