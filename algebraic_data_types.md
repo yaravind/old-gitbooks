@@ -59,7 +59,7 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 | Computations that may fail to return a value | `Option` | `None`, `Some` |
 | Computations that may return this or that | `Either` | `Left`, `Right` |
 | Computations that may fail with an Exception | `Try` | `Success`, `Failure` |
-| Computations that may return many answers | `List` | |
+| Computations that may return many answers | `List` |  |
 
 
 ## References
