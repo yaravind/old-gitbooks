@@ -1,7 +1,7 @@
 # Algebraic Data Types
 
 
-> **How do you model data in FP?: ADT. Using ADT, we model data with logical ors and logical ands**
+> **How do you model data in FP?: ADT. Using ADT, we model data with logical *ors* and logical *ands***
 
 - ADT's are only data. No behavior at all.
 - In Scala, when we hear ADT, it means Sum Type.
