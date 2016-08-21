@@ -52,7 +52,15 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 - TBD: http://tpolecat.github.io/presentations/cofree/slides#1
 
-# References
+## Standard Library
+
+| Intuition | Library |
+| -- | -- |
+| Computations that may fail to return a value | `Option`: `None`, `Some` |
+| 0:3 | 1:3 |
+
+
+## References
 
 - http://tpolecat.github.io/presentations/algebraic_types.html
 - https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/
