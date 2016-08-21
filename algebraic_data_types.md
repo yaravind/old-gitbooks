@@ -1,4 +1,9 @@
 # Algebraic Data Types
+
+**How do you model data in FP? **
+
+Using ADT's.
+
 - ADT's are only data. No behavior at all.
 - In Scala, when we hear ADT, it means Sum Type.
 - ADT's doesn't feature sub-type polymorphism, but only *combination/composition* of data types.
