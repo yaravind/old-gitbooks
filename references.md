@@ -25,4 +25,4 @@
 
 ## Coding Conventions
 
-- [https://blog.jetbrains.com/scala/2011/03/10/signature-matters/](https://blog.jetbrains.com/scala/2011/03/10/signature-matters/)
+* [https://blog.jetbrains.com/scala/2011/03/10/signature-matters/](https://blog.jetbrains.com/scala/2011/03/10/signature-matters/)
