@@ -30,6 +30,7 @@ case object Spring extends Season
 -  Examples: Season, Boolean
 
 ## Product Types
+- Sometime we can't enumerate all values of a particular type. For e.g. it is not worth to enumerate all possible colors.
 - Example
 
 ```scala
