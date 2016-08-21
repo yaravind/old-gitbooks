@@ -1,5 +1,6 @@
 # Algebraic Data Types
 - ADT's are only data. No behavior at all.
+- In Scala, whevever we hear ADT, it means Sum Type.
 - ADT's doesn't feature sub-type polymorphism, but only *combination/composition* of data types.
 
 ## Enumerated Types
