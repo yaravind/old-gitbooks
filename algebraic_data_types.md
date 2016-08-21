@@ -4,6 +4,18 @@
 
 ## Enumerated Types
 
+- All the possible values can be enumerated as there are only finite set of values. E.g. Seasons, Switches
+- Case classes and objects are used to define these
+- Example
+
+```scala
+sealed abstract class Season
+case object Summer extends Season
+case object Winter extends Season
+case object Fall extends Season
+case object Spring extends Season
+```
+
 ## Sum Types
 
 ## Product Types
