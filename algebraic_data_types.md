@@ -44,6 +44,10 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 - Combination of sum and product types
 - Mostly have nested definitions
 
+## Recursive Types
+
+- TBD: http://tpolecat.github.io/presentations/cofree/slides#1
+
 # References
 
 - https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/
