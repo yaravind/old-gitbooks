@@ -8,7 +8,7 @@
 * [Building end to end functional app](https://vimeo.com/131196782)
 * [Functional Patterns for Scala Beginners](https://www.youtube.com/watch?v=bugobPTMNNk)
 * http://scalaupnorth.com/2015.html
-* 
+* http://tpolecat.github.io/presos.html
 
 
 ## Website
