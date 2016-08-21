@@ -4,7 +4,7 @@
 
 ## Enumerated Types
 
-- All the possible values can be enumerated as there are only finite set of values. E.g. Seasons, Switches
+- All the possible values can be enumerated as there are finite set of values. E.g. Seasons, Switches
 - Case classes and objects are used to define these
 - Example
 
