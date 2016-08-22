@@ -66,6 +66,13 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 | Computations that may return many answers | `List` | `Nil`, `::` |
 
 
+## Transforming ADT
+
+- 2 patterns
+  - Pattern Matching
+  - Polymorphism
+- Pattern matching is preferred as you can see all the implementations at one place. You put the pattern matching in base trait.
+
 ## References
 
 - http://tpolecat.github.io/presentations/algebraic_types.html
