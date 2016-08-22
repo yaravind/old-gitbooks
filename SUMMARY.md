@@ -5,7 +5,7 @@
 * [Currying](currying.md)
 * [Composition](composition.md)
 * [Algebraic Data Types](algebraic_data_types.md)
-* Sequencing Computation
+* [Sequencing Computation](sequencing_computation.md)
 * [Category Theory](category_theory.md)
 * [Lessons Learned](lessons_learned.md)
 * [Buzz Words](buzz_words.md)
