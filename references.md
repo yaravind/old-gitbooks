@@ -7,6 +7,7 @@
 * [Handling errors in functional world - Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
 * [Building end to end functional app](https://vimeo.com/131196782)
 * [Functional Patterns for Scala Beginners](https://www.youtube.com/watch?v=bugobPTMNNk)
+* [Good for patterns on ADT, Pattern Matching, Sequence Computation](https://www.youtube.com/watch?v=7b-LsXoAiy8)
 * http://scalaupnorth.com/2015.html
 * http://tpolecat.github.io/presos.html
 
