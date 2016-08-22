@@ -49,7 +49,7 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
 
 ## "Sum of Product" Types
 
-- Combination of sum and product types
+- Combination of sum and product types. Sum and Product type together make ADT.
 - Mostly have nested definitions
 
 ## Recursive Types
