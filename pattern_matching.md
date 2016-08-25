@@ -8,3 +8,7 @@
     - the behavior is spanning multiple types
 - apply, applySeq
 
+## References
+
+- https://www.youtube.com/watch?v=OpO9uhI22ZA
+
