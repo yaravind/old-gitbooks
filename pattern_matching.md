@@ -4,7 +4,7 @@
   - Use polymorphism when 
     - new sub-classes are expected to be added in future
   - Use pattern matching when
-    - new methods are expected to be added to existing types. This way, we no need to touch multiple classes
+    - new methods are expected to be added to existing class hierarchy
     - the behavior is spanning multiple types
 - apply, applySeq
 
