@@ -8,6 +8,8 @@ FP world has lot of terminology that programmers coming from an OOP background s
 | Memoization | tbd |
 | Sum and Product Types | - [Enumerated types](https://gleichmann.wordpress.com/2011/01/30/functional-scala-algebraic-datatypes-enumerated-types/) <br/> - [Sum and Product Types](https://gleichmann.wordpress.com/2011/02/05/functional-scala-algebraic-datatypes-sum-and-product-types/) <br/> - [Sum of Products](https://gleichmann.wordpress.com/2011/02/08/functional-scala-algebraic-datatypes-sum-of-products-types/) |
 | ADT | [Abstract Data Types](http://tpolecat.github.io/presentations/algebraic_types.html) |
+| Universal quantifier | Is a logical statement that applies to all elements of a set. For e.g.  `forall` in Scala collections and `forAll` in ScalaCheck.|
+| Existential quantifier | Is a logical statement that applies to at least one element of the set. For e.g. `exists()` in Scala collections and `exists` in ScalaCheck. |
 | Functor | tbd |
 | Applicative | tbd |
 | Monad | tbd |
