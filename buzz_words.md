@@ -11,12 +11,13 @@ FP world has lot of terminology that programmers coming from an OOP background s
 | Universal quantifier | Is a logical statement that applies to all elements of a set. For e.g.  `forall` in Scala collections and `forAll` in ScalaCheck.|
 | Existential quantifier | Is a logical statement that applies to at least one element of the set. For e.g. `exists()` in Scala collections and `exists` in ScalaCheck. |
 | Functor | tbd |
+| CoFunctor | tbd |
 | Applicative | tbd |
 | Monad | tbd |
 | Monoid | tbd |
 | Semigroup | tbd |
 | Arrow | tbd |
-| 0:12 | tbd |
+| Isomorphisms | tbd |
 | 0:13 | tbd |
 | 0:14 | tbd |
 | 0:15 | tbd |
