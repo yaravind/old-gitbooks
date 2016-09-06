@@ -4,7 +4,7 @@ Generate -> Run -> Shrink
 ## Generators
 - Can generate **any** value for a type or a **subset** of values
 - Is a Monad so we can sequence/chain them to produce new ones
-  - map, flatMap, filter, suchThat
+- Composable: map, flatMap, filter, suchThat
 - Is edge-case biased
 - ScalaCheck has generators for
   - Primitives
