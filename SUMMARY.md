@@ -8,8 +8,8 @@
 * [Pattern Matching](pattern_matching.md)
 * [Sequencing Computation](sequencing_computation.md)
 * [Category Theory](category_theory.md)
+* Property Based Testing
 * [Lessons Learned](lessons_learned.md)
 * [Buzz Words](buzz_words.md)
 * [References](references.md)
-* Property Based Testing
 
