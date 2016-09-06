@@ -5,6 +5,7 @@ Generate -> Run -> Shrink
 - Can generate **any** value for a type or a **subset** of values
 - Is a Monad so we can sequence/chain them to produce new ones
 - Composable: `map`, `flatMap`, `filter`, `suchThat`
+  - Using `suchThat` means ScalaCheck *discards* values
 - Is edge-case biased
 - ScalaCheck has generators for
   - Primitives
