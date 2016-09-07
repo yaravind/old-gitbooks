@@ -13,6 +13,6 @@ Generate -> Run -> Shrink
   - `Option`, `Either`, `Tuple1` to `Tuple9`, `Function1` to `Function5`
   - Collections: `Array`, `List`, `ArrayList`, `Map`, `Stream`, `Set`
   - Helpers: `alphaChar`, `alphaNumChar`, `alphaStr`, `identifier` etc.
-  - choose, oneOf, someOf
+  - `choose`, `oneOf`, `someOf`
 - `for` comprehension can be used to generate custom types
 
