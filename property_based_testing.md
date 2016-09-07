@@ -30,7 +30,10 @@ scala> implicitly[Shrink[String]].shrink("asdf")
 Stream[String] = Stream(as,?)
 scala> implicitly[Shrink[String]].shrink("asdf").force
 Stream[String] = Stream(as,df,adf,asd,sdf,asf)
-implicitly[Shrink[String]].shrink("as").force
+scala> implicitly[Shrink[String]].shrink("as").force
 Stream[String] = Stream(a,s) 
-scala> 
+scala> implicitly[Shrink[String]].shrink("a").force
+Stream[String] = Stream("") 
+scala> implicitly[Shrink[String]].shrink("").force
+Stream[String] = Stream()  
 ```
