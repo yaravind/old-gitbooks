@@ -14,5 +14,6 @@ Generate -> Run -> Shrink
   - Collections: `Array`, `List`, `ArrayList`, `Map`, `Stream`, `Set`
   - Helpers: `alphaChar`, `alphaNumChar`, `alphaStr`, `identifier` etc.
   - Higher-order: `choose`, `oneOf`, `someOf`, `listOf1
+  - Distributions: Random, `Prop.frequency`
 - `for` comprehension can be used to generate custom types
 
