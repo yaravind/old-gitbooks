@@ -13,7 +13,7 @@ Generate -> Run -> Shrink
   - `Option`, `Either`, `Tuple1` to `Tuple9`, `Function1` to `Function5`
   - Collections: `Array`, `List`, `ArrayList`, `Map`, `Stream`, `Set`
   - Helpers: `alphaChar`, `alphaNumChar`, `alphaStr`, `identifier` etc.
-  - Higher-order: `choose`, `oneOf`, `someOf`, `listOf1
+  - Higher-order: `choose`, `oneOf`, `someOf`, `listOf1`
   - Distributions: Random, `Prop.frequency`
 - `for` comprehension can be used to generate custom types
 
