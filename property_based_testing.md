@@ -1,7 +1,7 @@
 # Property Based Testing
 Generate -> Run -> Shrink
 
-## Generators
+## Generate
 - Can generate **any** value for a type or a **subset** of values
 - Are a Monad so we can sequence/chain them to produce new ones
 - Composable: `map`, `flatMap`, `filter`, `suchThat`
@@ -16,4 +16,10 @@ Generate -> Run -> Shrink
   - Higher-order: `choose`, `oneOf`, `someOf`, `listOf1`
   - Distributions: Random, `Prop.frequency`
 - `for` comprehension can be used to generate custom types
+
+## Run
+- ScalaTest
+- Specs2
+- [ScalaMeter](https://scalameter.github.io/)
+- [Simulant](https://github.com/Datomic/simulant/wiki)
 
