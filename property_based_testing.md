@@ -23,3 +23,14 @@ Generate -> Run -> Shrink
 - [ScalaMeter](https://scalameter.github.io/)
 - [Simulant](https://github.com/Datomic/simulant/wiki)
 
+## Shrink
+
+```
+scala> implicitly[Shrink[String]].shrink("asdf")
+Stream[String] = Stream(as,?)
+scala> implicitly[Shrink[String]].shrink("asdf").force
+Stream[String] = Stream(as,df,adf,asd,sdf,asf)
+implicitly[Shrink[String]].shrink("as").force
+Stream[String] = Stream(a,s) 
+scala> 
+```
