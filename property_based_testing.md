@@ -39,3 +39,7 @@ Stream[String] = Stream("")
 scala> implicitly[Shrink[String]].shrink("").force
 Stream[String] = Stream()  
 ```
+
+## References
+- [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
+- 
