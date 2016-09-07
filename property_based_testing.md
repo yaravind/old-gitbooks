@@ -16,6 +16,8 @@ Generate -> Run -> Shrink
   - Higher-order: `choose`, `oneOf`, `someOf`, `listOf1`
   - Distributions: Random, `Prop.frequency`
 - `for` comprehension can be used to generate custom types
+- `Arbitrary` is a canonical way of generating data for a specific type. There can be only one canonical generator for type in a given scope. See [this video](https://www.infoq.com/presentations/scalacheck-magic) from 41th to 44th min.
+- `arbitrary` is a way to convert an `Arbitrary` into a Gen. See [this video](https://www.infoq.com/presentations/scalacheck-magic) from 43.30 to 44.10 min.
 
 ## Run
 - ScalaTest
