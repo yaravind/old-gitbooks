@@ -46,6 +46,14 @@ Stream[String] = Stream()
 - Use `collec` and `classify` to examine the distribution of test data generated randomly
 - We can nest both of them to get multi-level grouping
 
+## Patterns
+- Symmetry: There and back again
+- Multiple paths:
+- Induction
+- Invariants
+  - Idempotence
+  - Consistency
+
 ## References
 - [ScalaCheck Cookbook](https://github.com/oscarrenalias/scalacheck-cookbook/blob/master/markdown/TOC.md)
 - [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
