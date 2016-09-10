@@ -45,5 +45,6 @@ Stream[String] = Stream()
 - We can nest both of them to get multi-level grouping
 
 ## References
+- [ScalaCheck Cookbook](https://github.com/oscarrenalias/scalacheck-cookbook/blob/master/markdown/TOC.md)
 - [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
 - 
