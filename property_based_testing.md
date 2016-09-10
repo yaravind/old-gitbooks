@@ -49,4 +49,5 @@ Stream[String] = Stream()
 ## References
 - [ScalaCheck Cookbook](https://github.com/oscarrenalias/scalacheck-cookbook/blob/master/markdown/TOC.md)
 - [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
-- 
+- [Getting the most out of ScalaCheck](https://engineering.sharethrough.com/blog/2016/07/29/a-retrospective-on-scalacheck/)
+- [Categories of Properties](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
