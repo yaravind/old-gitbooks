@@ -18,6 +18,6 @@ FP world has lot of terminology that programmers coming from an OOP background s
 | Semigroup | tbd |
 | Arrow | tbd |
 | Isomorphisms | tbd |
-| 0:13 | tbd |
+| Dependent Types | tbd |
 | 0:14 | tbd |
 | 0:15 | tbd |
