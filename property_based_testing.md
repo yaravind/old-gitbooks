@@ -1,5 +1,7 @@
 # Property Based Testing
-Generate -> Run -> Shrink
+- Unit tests: Reson by example
+- PBT: Reason by proof
+- Generate -> Run -> Shrink
 
 ## Generate
 - Can generate **any** value for a type or a **subset** of values
