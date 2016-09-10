@@ -40,6 +40,10 @@ scala> implicitly[Shrink[String]].shrink("").force
 Stream[String] = Stream()  
 ```
 
+## Test Distribution
+- Use `collec` and `classify` to examine the distribution of test data generated randomly
+- We can nest both of them to get multi-level grouping
+
 ## References
 - [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
 - 
