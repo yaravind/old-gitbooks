@@ -47,7 +47,7 @@ Stream[String] = Stream()
 - We can nest both of them to get multi-level grouping
 
 ## Patterns
-- Symmetry: There and back again
+- Symmetry: There and back again ([Click for e.g.](http://blog.charleso.org/property-testing-preso/#71))
 - Multiple paths:
 - Induction
 - Invariants
