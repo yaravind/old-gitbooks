@@ -50,7 +50,7 @@ Stream[String] = Stream()
 - Symmetry: There and back again ([Click for e.g.](http://blog.charleso.org/property-testing-preso/#71))
 - Multiple paths:
 - Induction
-- Invariants
+- Invariants ([Click for e.g.](http://blog.charleso.org/property-testing-preso/#73))
   - Idempotence
   - Consistency
 
@@ -59,3 +59,4 @@ Stream[String] = Stream()
 - [ScalaCheck Magic](https://www.infoq.com/presentations/scalacheck-magic)
 - [Getting the most out of ScalaCheck](https://engineering.sharethrough.com/blog/2016/07/29/a-retrospective-on-scalacheck/)
 - [Categories of Properties](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [Patterns](http://blog.charleso.org/property-testing-preso/#1)
