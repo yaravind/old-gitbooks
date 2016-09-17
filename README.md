@@ -9,3 +9,4 @@ When writing programs in a modular way, we divide a problem into sub-problems, s
 
 Reference
 - https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+- [foldl.com](http://foldl.com/) and [foldr.com](http://foldr.com/)
