@@ -4,6 +4,7 @@
 * When we say functions are "first class", we mean they are just like everyone else...so normal classcoach?. We can treat functions like any other data type and there is nothing particularly special about them - store them in arrays, pass them around, assign them to variables, what have you.
 
 ## Higher Order Functions
+
 Enable simple functions to be glued together to make more complex ones. Define a general higher-order function (`foldr`) and some particular specializing functions (`sum` etc.). 
 
 Examples
