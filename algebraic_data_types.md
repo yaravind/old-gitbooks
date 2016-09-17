@@ -74,6 +74,9 @@ sealed case class RGBColor(red:Int, blue:Int, green:Int)
   - Polymorphism
 - Pattern matching is preferred as you can see all the implementations at one place. You put the pattern matching in base trait.
 
+## Best Practices
+- Whenever a new type is defined, we should define higher-order functions for processing it. [Page 8 of Why FP matters?](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+
 ## References
 
 - http://tpolecat.github.io/presentations/algebraic_types.html
