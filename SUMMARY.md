@@ -12,4 +12,5 @@
 * [Lessons Learned](lessons_learned.md)
 * [Buzz Words](buzz_words.md)
 * [References](references.md)
+* Patterns
 
