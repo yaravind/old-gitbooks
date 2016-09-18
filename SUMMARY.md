@@ -11,5 +11,6 @@
 * [Property Based Testing](property_based_testing.md)
 * [Lessons Learned](lessons_learned.md)
 * [Buzz Words](buzz_words.md)
+   * Patterns
 * [References](references.md)
 
