@@ -13,3 +13,6 @@ Monads are Elephants
 
 [Programming with Monads](http://book.realworldhaskell.org/read/programming-with-monads.html)
 
+## Monoid
+- [Monoid without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
+
