@@ -24,6 +24,7 @@
   - Using `include`
 
 ## Generate
+- `org.scalacheck.Gen`
 - Can generate **any** value for a type or a **subset** of values
 - Are a Monad so we can sequence/chain them to produce new ones
 - Composable: `map`, `flatMap`, `filter`, `suchThat`
