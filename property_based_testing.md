@@ -3,6 +3,13 @@
 - PBT: Reason by proof
 - Generate -> Run -> Shrink
 
+**Intuition**
+
+1. Specify the behavior of a unit of code as a Prop
+2. ScalaCheck generates test data to falsify the property until it is exhausted
+3. If the property holds true for all such generated test data, then the Prop is assumed to pass the test
+
+
 ## Generate
 - Can generate **any** value for a type or a **subset** of values
 - Are a Monad so we can sequence/chain them to produce new ones
@@ -22,6 +29,7 @@
 - `arbitrary` is a way to convert an `Arbitrary` into a Gen. See [this video](https://www.infoq.com/presentations/scalacheck-magic) from 43.30 to 44.10 min.
 
 ## Run
+- 
 - ScalaTest
 - Specs2
 - [ScalaMeter](https://scalameter.github.io/)
