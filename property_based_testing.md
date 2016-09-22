@@ -1,5 +1,5 @@
 # Property Based Testing
-- Unit tests: Reson by example
+- Unit tests: Reason by example
 - PBT: Reason by proof
 - Generate -> Run -> Shrink
 
@@ -43,7 +43,7 @@ Stream[String] = Stream()
 ```
 
 ## Test Distribution
-- Use `collec` and `classify` to examine the distribution of test data generated randomly
+- Use `collect` and `classify` to examine the distribution of the generated test data
 - We can nest both of them to get multi-level grouping
 
 ## Patterns
