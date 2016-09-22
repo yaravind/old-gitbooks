@@ -14,6 +14,10 @@
 1. Create an instance of `org.scalacheck.Prop` say `p`
 2. Test it by calling `check` function on it `p.check`
 
+## Create
+- Universally qunatified Prop can be created using `Prop.forAll`
+- `forAll` takes function as the parameter
+- The function takes any type as input parameter and returnes either a `Boolean` or another `Prop`
 
 ## Generate
 - Can generate **any** value for a type or a **subset** of values
