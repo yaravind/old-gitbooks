@@ -5,9 +5,9 @@
 
 **Intuition**
 
-1. Specify the behavior of a unit of code as a Prop
+1. Specify the behavior of a unit of code as a `Prop`
 2. ScalaCheck generates test data to falsify the property until it is exhausted
-3. If the property holds true for all such generated test data, then the Prop is assumed to pass the test
+3. If the property holds true for all such generated test data, then the `Prop` is assumed to pass the test
 
 
 ## Generate
