@@ -9,7 +9,8 @@
 2. ScalaCheck generates test data to falsify the property until it is exhausted
 3. If the property holds true for all such generated test data, then the `Prop` is assumed to pass the test
 
-Flow
+**Flow**
+
 1. Create an instance of `org.scalacheck.Prop` say `p`
 2. Test it by calling `check` function on it `p.check`
 
