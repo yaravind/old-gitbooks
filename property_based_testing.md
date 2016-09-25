@@ -86,7 +86,11 @@ Stream[String] = Stream()
 ##New Generators Project
 
 - Names
-  - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name, Count)
-  - [UK male dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) (Rank, Name, Count)
+  - First name
+    - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name, Count)
+    - [UK male dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) (Rank, Name, Count)
+  - Last name
+    - [US Census - 1990](http://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html)
+    - [US Census - 2000](http://www.census.gov/topics/population/genealogy/data/2000_surnames.html)
   - [Git repo of Name Database of most countries](https://github.com/enorvelle/NameDatabases)
   - [Gender determination API](https://gender-api.com/en/)
