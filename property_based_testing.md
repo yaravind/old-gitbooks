@@ -88,3 +88,5 @@ Stream[String] = Stream()
 - Names
   - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name, Count)
   - UK male dataset (Rank, Name, Count)
+  - [Name Database of most countries](https://github.com/enorvelle/NameDatabases)
+  - [Gender determination API](https://gender-api.com/en/)
