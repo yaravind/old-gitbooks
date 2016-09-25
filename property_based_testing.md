@@ -82,3 +82,9 @@ Stream[String] = Stream()
 - [Getting the most out of ScalaCheck](https://engineering.sharethrough.com/blog/2016/07/29/a-retrospective-on-scalacheck/)
 - [Categories of Properties](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
 - [Patterns](http://blog.charleso.org/property-testing-preso/#1)
+
+##New Generators Project
+
+- Names
+  - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name Count)
+  - UK male dataset
