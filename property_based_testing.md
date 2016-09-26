@@ -87,7 +87,8 @@ Stream[String] = Stream()
 
 - [Data standard manual](https://www.lehigh.edu/lewis/DataStandardsManual.doc)
 - Names
-- [Falsehoods Programmers believe about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+  - [Falsehoods Programmers believe about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+  - [Dublin core name representations](http://dublincore.org/documents/1998/02/03/name-representation/)
   - First name
     - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name, Count)
     - [UK male dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) (Rank, Name, Count)
