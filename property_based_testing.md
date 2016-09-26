@@ -92,5 +92,7 @@ Stream[String] = Stream()
   - Last name
     - [US Census - 1990](http://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html)
     - [US Census - 2000](http://www.census.gov/topics/population/genealogy/data/2000_surnames.html)
+  - [Honorofics/Titles](https://en.wikipedia.org/wiki/Honorifics_(linguistics))
+    - [By Locale](https://en.wikipedia.org/wiki/English_honorifics)
   - [Git repo of Name Database of most countries](https://github.com/enorvelle/NameDatabases)
   - [Gender determination API](https://gender-api.com/en/)
