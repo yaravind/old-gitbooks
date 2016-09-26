@@ -85,7 +85,8 @@ Stream[String] = Stream()
 
 ##New Generators Project
 
-- Names
+- [Data standard manual](https://www.lehigh.edu/lewis/DataStandardsManual.doc)
+- - Names
   - First name
     - [UK female dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) (Rank, Name, Count)
     - [UK male dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) (Rank, Name, Count)
